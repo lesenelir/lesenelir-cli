@@ -1,0 +1,25 @@
+{
+  "name": "lesenelir-cli",
+  "version": "0.0.1",
+  "description": "Lesenelir Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesenelir/lesenelir-cli.git"
+  },
+  "keywords": [
+    "npmmodule"
+  ],
+  "author": {
+    "name": "lesnelir",
+    "email": "miaomiaobabyzy@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lesenelir/lesenelir-cli/issues"
+  },
+  "homepage": "https://github.com/lesenelir/lesenelir-cli#readme"
+}
